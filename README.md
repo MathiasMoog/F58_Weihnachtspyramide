@@ -1,7 +1,7 @@
 # Antrieb und Kerzen für Weihnachtspyramide
 
 
-[Weihnachtspyramide](Bilder/Pyramide.jpg)
+![Weihnachtspyramide](Bilder/Pyramide.jpg)
 
 Und als kurzes Video: [Weihnachtspyramide](Bilder/Pyramide.mp4)
 
