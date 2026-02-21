@@ -1,4 +1,4 @@
-# Antrieb und Kerzen für Weihnachtspyramide
+# Antrieb und LED-Kerzen für Weihnachtspyramide
 
 
 ![Weihnachtspyramide](Bilder/Pyramide.jpg)
