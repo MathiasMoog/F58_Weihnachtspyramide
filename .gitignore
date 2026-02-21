@@ -1,0 +1,65 @@
+# Zu irnorierende Dateien
+#
+# Don't add temporary inkscape files
+svg-inkscape/
+# Don't add KiCad backups 
+*-backups
+# Don't add KiCad cache
+*/fp-info-cache
+# Ignore gerber files
+*.gbr
+*.gbrjob
+# KiCad Locks
+*.lck
+# Don't add privat secrets ..
+*/secrets.h
+DaheimConfig.txt
+# Don't add temporary zip files
+*.zip
+# Keine STL Dateien aufnehmen, die erzeuge ich aus den scad Dateien
+*.stl
+#
+# Temporary tex files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.glg
+*.glo
+*.gls
+*.hlg
+*.hyg
+*.hyi
+*.idx
+*.ilg
+*.ind
+*.ist
+*.lof
+*.log
+*.lot
+*.mcs
+*.mct
+*.mdg
+*.mzg
+*.mzi
+*.mlg
+*.mw
+*.myg
+*.myi
+*.nav
+*.oog
+*.out
+*.oyg
+*.oyi
+*.run.xml
+*.slg
+*.snm
+*.syg
+*.syi
+*.synctex*
+*.tdo
+*.toc
+*.toc1
+*.vrb
