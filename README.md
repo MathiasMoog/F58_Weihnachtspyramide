@@ -1,7 +1,7 @@
 # Antrieb und Kerzen für Weihnachtspyramide
 
 
-[Weihnachtspyramide](Bilder/Pyramide.jpg)
+![Weihnachtspyramide](Bilder/Pyramide.jpg)
 
 Und als kurzes Video: [Weihnachtspyramide](Bilder/Pyramide.mp4)
 
@@ -12,13 +12,18 @@ Ein Arduino Nano ESP steuert den Antrieb und die LED Kerzen einer Weihnachtspyra
 
 Über den ESP wird eine MQTT Anbindung erstellt.
 
-## Hintergrund
+### Hintergrund
 
 Unsere Weihnachtspyramide ist seit einigen Jahren nicht mehr genutzt worden, da niemand Lust hat auf die echten Kerzen aufzupassen. Außerdem läuft sie mit den Kerzen nicht so gut.
 
 In der Bastelkiste hatte ich noch einen (uralten) [Arduino Nano ESP](https://iot.fkainka.de/board) von F. Kainka und aus dem alten Drucker den Antrieb für die Scan Einheit.
 
+### Ordner
 
+- Bilder - Bilder und Zeichnungen
+- Druckvorlagen - OpenSCAD Zeichnungen für 3D Drucke 
+- PyramidenMQTT - Der Arduino Sketch 
+- PyramidenSchaltplan - KiCad Schaltplan und Platine
 
 ## Aufbau
 
